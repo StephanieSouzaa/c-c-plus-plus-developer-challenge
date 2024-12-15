@@ -1,0 +1,9 @@
+Soma: 2 = 7
+Determinante (2x2): 0
+Determinante (2x2): -2.000000
+Soma: (null) = 10
+Soma: 5 = 26
+Soma: 2,4,5,6 = 17
+Soma: 2+5+7+3+7 = 24
+Soma: 2+5+6+3 = 16
+Determinante (7x7): -4011506270208.000000

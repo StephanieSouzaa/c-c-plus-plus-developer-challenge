@@ -4,6 +4,7 @@
 #include "hmi.h"
 
 int main() {
+    initializeOperations();
     int operation;
     while (1) {
 
@@ -13,8 +14,8 @@ int main() {
         {
          break;
         }
-        
-        performOperations(operation);
+        executeOperation(operation);
     }
     return 0;
 }
+
